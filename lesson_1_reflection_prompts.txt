@@ -1,33 +1,33 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    
+ A visualização ajuda no sentido de localizar quais comandos foram retirados ou inseridos, localizando desta forma os bugs  
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    
+    A possibilidade de visualizar o histórico permite o controle das alterações, onde se localiza o autor dessas modificações e qual foi seu proposito para o projeto.
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    
+    A desvantagem de versões salvas automaticamente´, é o excessivo número de versões. Entretanto, o salvamento manual pode não ser vantajoso quando o usuário não sabe o momento correto de realizar o salvamento da versão.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    
+    Porque controles de versões como Git permitem que os arquivos possam ser analisados e se verificar a presença dos bugs, adição e exclusão de comandos.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    
+    Com o comando "git log", é´possível conferir todos os commits com suas alterações, já o comando "git diff" é utilizado para verificar as diferenças entre oscommits. 
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    
+    O controle de versão permite realizar a verificação da versão que contém um bug, ou até mesmo uma correção no código foi alterado.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    
+    Para realizar modificações em códigos.
